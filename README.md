@@ -13,4 +13,4 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 
 Chi Square: https://youtu.be/dgehxC9tJVc
 
-[Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
+[Descriptive Statistics:](https://youtu.be/09SCdQPVShU) **Undergraduate Class & Lab
