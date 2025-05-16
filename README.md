@@ -9,7 +9,9 @@ Date created/updated: December, 9, 2024.
 ![download](https://github.com/user-attachments/assets/69f99d4c-8f9d-452c-aa19-cffb14d39c72)
 ^^Claflin University, School of Natural Sciences and Mathematics, Department of Computer Science and Biology, Orangeburg, South Carolina, United States of America (USA). 
 [Anova:](https://youtu.be/Z-S4CfsRHA0)
+https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
+https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [Correlation:](https://youtu.be/yndToTyudUQ)
 
 [Chi Square:](https://youtu.be/dgehxC9tJVc)
