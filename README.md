@@ -20,7 +20,7 @@ https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU) **Undergraduate Class & Lab. https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6), United States of America (USA).
-
+https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-biology
 Feb-27.R: Analysis of Variance (ANOVA) test and ggscatter plot.
 Feb-8.R: Correlation test analysis and scatter plotting.
 Jan-25.Rd: T-test analysis and line plot.
