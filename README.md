@@ -10,7 +10,7 @@ Data Science:
 
 [Tree Based Models:](https://youtu.be/FOtl6qM_nX0)
 https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.R
-
+Student Evaluations (2021-2026): https://www.claflin-computation.com/_files/ugd/81dd80_ae28e89ed22e41c39513d1764b5c9628.pdf
 [Regression:](https://youtu.be/LrSDfwwnbKY)
 https://github.com/spawar2/STAT302/blob/main/Mar-9.Rd
 [Semester class review:](https://youtu.be/Pju8ecWWRAw)
